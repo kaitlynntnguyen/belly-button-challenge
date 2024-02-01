@@ -15,4 +15,10 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 Demographics information is populated based upon a user-selected test subject ID. 
 
-Files: Static/js/app.js: -A JavaScript file which loads the data from a URL and produces the displayed dashboard. index.html -A html file used to open the dashboard in the browser samples.json -A .json file with a copy of the data loaded from the URL
+Files: 
+Static/js/app.js: 
+  - A JavaScript file which loads the data from a URL and produces the displayed dashboard.
+index.html
+  - A html file used to open the dashboard in the browser
+samples.json
+  - A .json file with a copy of the data loaded from the URL
