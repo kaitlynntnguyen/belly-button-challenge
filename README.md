@@ -3,7 +3,7 @@ deployed to: https://kaitlynntnguyen.github.io/belly-button-challenge/
 
 We are building an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. This program uses D3 library to examine data about belly button diversity. A dropdown menu is used to select a test subject id. The subject’s demographic information is displayed. A bar chart, bubble chart and a gauge chart also update once the ID is changed.
 
-## Steps : 
+### Steps : 
   - Read in samples.json using the D3 library;
 
   - Retrieve metadata info for each test subject and display this in the form of an unordered list item as a key-value pair on the dashboard;
